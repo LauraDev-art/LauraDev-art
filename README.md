@@ -20,7 +20,7 @@
 
 ### Me encontre em:
 - [LinkedIn](https://www.linkedin.com/in/laura-lourenço-6640a835a/) 
-- [Portfólio (em breve)]
+- [Portfólio](https://lauradev-art.github.io/portf-lio/)
 
 <!--
 **LauraDev-art/LauraDev-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
