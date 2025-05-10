@@ -21,7 +21,7 @@
 ### Me encontre em:
 - [LinkedIn](https://www.linkedin.com/in/laura-lourenço-6640a835a/) 
 - [Portfólio](https://lauradev-art.github.io/portf-lio/)
-
+- [to-do list basic](https://lauradev-art.github.io/to-do-list-basic/)
 <!--
 **LauraDev-art/LauraDev-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
